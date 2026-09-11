@@ -4,7 +4,7 @@ int main(void)
 {
 	int price[6] = {18, 7, 25, 12, 33, 20};
 	int n = 6;
-	int target = 32;
+	int target = 100;
 	int checks = 0;
 	
 	for (int i = 0; i < n; ++i) {
